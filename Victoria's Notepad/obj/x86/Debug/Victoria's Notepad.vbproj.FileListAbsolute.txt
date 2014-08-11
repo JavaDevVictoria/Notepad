@@ -1,0 +1,11 @@
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\bin\Debug\Victoria's Notepad.exe
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\bin\Debug\Victoria's Notepad.pdb
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\bin\Debug\Victoria's Notepad.xml
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\Victoria_s_Notepad.Form1.resources
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\Victoria_s_Notepad.Resources.resources
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\Victoria's Notepad.exe
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\Victoria's Notepad.xml
+C:\Vicky\Visual Studio\Victoria's Notepad\Victoria's Notepad\obj\x86\Debug\Victoria's Notepad.pdb
